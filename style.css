@@ -445,6 +445,9 @@ section.meio{
 		float: none;
 		display: none;
 	}
+	.header1{
+		position: static;
+	}
 
 	.logo-center{
 		margin: 0 auto;
@@ -508,6 +511,9 @@ section.meio{
 	}
 	.bg{
 		background-image: none;
+	}
+	section.cover-form{
+		padding-top: 10px;
 	}
 	.form-container{
 		float: none;
